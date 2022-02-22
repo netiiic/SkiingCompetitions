@@ -1,1 +1,1 @@
-# ADO.NET project for extracting information about ski jumps.
+ADO.NET project for extracting information about ski jumps.

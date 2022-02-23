@@ -1,1 +1,7 @@
-ADO.NET project for extracting information about ski jumps.
+# Description
+
+Project for extracting information about ski jumps.
+
+# Technology
+
+ADO.NET
